@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101.932" height="91.429" viewBox="0 0 101.932 91.429">
+  <g id="CD_IT" data-name="CD &amp; IT" transform="translate(-78 0)">
+    <path id="Path_4229" data-name="Path 4229" d="M69.232,69.6C80.5,54.878,83.01,23.564,74.007,10.882,68.84,3.758,60.777,0,50.364,0,33.3,0,13.884,10.647,5.116,24.738c-6.185,9.864-6.732,20.354-1.8,30.375,8.768,17.223,24.034,27.87,39.848,27.87C53.417,82.983,62.656,78.286,69.232,69.6Z" transform="translate(162.357 1.448) rotate(91)" fill="#f4a114"/>
+    <g id="Group_1803" data-name="Group 1803" transform="translate(33.684 -2911.986)">
+      <g id="Group_1801" data-name="Group 1801">
+        <ellipse id="Ellipse_305" data-name="Ellipse 305" cx="4.297" cy="4.168" rx="4.297" ry="4.168" transform="translate(102.019 2960.552)" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+        <ellipse id="Ellipse_306" data-name="Ellipse 306" cx="4.297" cy="4.168" rx="4.297" ry="4.168" transform="translate(102.019 2919.986)" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+        <g id="Group_1799" data-name="Group 1799">
+          <ellipse id="Ellipse_307" data-name="Ellipse 307" cx="4.297" cy="4.168" rx="4.297" ry="4.168" transform="translate(89.414 2957.773)" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+          <ellipse id="Ellipse_308" data-name="Ellipse 308" cx="4.297" cy="4.168" rx="4.297" ry="4.168" transform="translate(81.965 2919.986)" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+          <path id="Path_5206" data-name="Path 5206" d="M94.592,2957.773v-3.446a16.885,16.885,0,0,0-3.764-10.6l-.669-.83a16.885,16.885,0,0,1-3.764-10.6v-3.978" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+        </g>
+        <g id="Group_1800" data-name="Group 1800">
+          <ellipse id="Ellipse_309" data-name="Ellipse 309" cx="4.297" cy="4.168" rx="4.297" ry="4.168" transform="translate(122.074 2919.986)" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+          <ellipse id="Ellipse_310" data-name="Ellipse 310" cx="4.297" cy="4.168" rx="4.297" ry="4.168" transform="translate(114.625 2957.773)" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+          <path id="Path_5207" data-name="Path 5207" d="M127.252,2928.321v3.446a16.883,16.883,0,0,1-3.764,10.6l-.668.83a16.885,16.885,0,0,0-3.764,10.6v3.977" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+        </g>
+        <line id="Line_532" data-name="Line 532" y1="32.23" transform="translate(106.317 2928.321)" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+      </g>
+      <g id="Group_1802" data-name="Group 1802">
+        <rect id="Rectangle_420" data-name="Rectangle 420" width="78" height="54.169" rx="10.082" transform="translate(67.317 2939.813)" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+        <line id="Line_533" data-name="Line 533" x2="78" transform="translate(67.317 2984.053)" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+        <line id="Line_534" data-name="Line 534" y2="8.501" transform="translate(98.9 2993.982)" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+        <line id="Line_535" data-name="Line 535" y2="8.501" transform="translate(115.29 2993.982)" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+        <line id="Line_536" data-name="Line 536" x2="27.825" transform="translate(93.564 3002.482)" fill="none" stroke="#142737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.864"/>
+      </g>
+    </g>
+  </g>
+</svg>
